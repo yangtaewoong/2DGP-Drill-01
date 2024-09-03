@@ -1,3 +1,9 @@
 hello, world
+<<<<<<< Updated upstream
 thankyou
 i love you
+=======
+gg
+
+DAY-2 HELLO
+>>>>>>> Stashed changes
